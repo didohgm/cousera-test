@@ -1,0 +1,1 @@
+// SpeakGoodBye library
